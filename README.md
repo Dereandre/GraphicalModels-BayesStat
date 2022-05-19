@@ -1,8 +1,7 @@
 # GraphicalModels-BayesStat
 
 ## Outline
-The aim of this project is to develop Bayesian methods for the analysis of multivariate categor-
-ical data. In particular, we are interested in inferring dependence relations between categorical
+The aim of this project is to develop Bayesian methods for the analysis of multivariate categorical data. In particular, we are interested in inferring dependence relations between categorical
 variables, also accounting for possible heterogeneity related to latent clustering structures in the
 data.
 We adopt graphical models to represent dependence relations between variables: specifically, a
