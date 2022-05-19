@@ -7,4 +7,4 @@ variables, also accounting for possible heterogeneity related to latent clusteri
 data.
 We adopt graphical models to represent dependence relations between variables: specifically, a
 graphical model is a probabilistic model for a collection of random variables based on a graph structure.
-The complete report can be found [here](https://github.com/Dereandre/GraphicalModels-BayesStat/blob/main/Report_final.pdf)
+The complete report can be found [here](https://github.com/Dereandre/GraphicalModels-BayesStat/blob/main/Report_final.pdf).
